@@ -1,59 +1,103 @@
-# Hola, soy Gonzalo Acosta. ⚙️
-
-Estudiante de Ingeniería en Sistemas (UTN) | Data Engineering & Backend
-
-Me enfoco en el diseño de arquitecturas eficientes, automatización de procesos y el rendimiento del software. No me interesa el código de adorno, busco construir soluciones que escalen y resuelvan problemas reales.
-
-### 💻 Sobre mí
-
-* 📍 Basado en Resistencia, Chaco.
-* 🎓 Cursando Ingeniería en Sistemas de Información en la UTN (Facultad Regional Resistencia).
-* 🔧 Actualmente profundizando en procesos ETL, modelado de bases de datos relacionales y despliegue en la nube.
-* 🚀 Siempre buscando optimizar el rendimiento, ya sea ajustando consultas SQL, configurando Docker o gestionando el hardware a bajo nivel.
-
-### 🛠️ Tecnologías y Herramientas
-
-**Backend & Datos:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-**Infraestructura & Herramientas:**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### 📂 Qué estoy construyendo
-
-* Diseño de pipelines de extracción y staging de datos.
-* Desarrollo de proyectos web Full Stack (React, Next.js, Node.js).
-* Troubleshooting y mantenimiento de sistemas operativos y hardware.
-
-### 🏋️‍♂️ Más allá de la terminal
-
-Cuando no estoy compilando o lidiando con bases de datos:
-* Mantengo la disciplina entrenando hipertrofia 4 días a la semana.
-* Analizando mecánicas y optimizando setups en juegos como League of Legends, Smash Bros Ultimate o armando servidores modeados de Minecraft.
-* Alimentando a mi gato, Johncito.
-
-### 📊 Estadísticas de GitHub
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GonzaloAcost4&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloAcost4&layout=compact&langs_count=7&theme=dark"/>
+
+```
+ ██████╗  ██████╗ ███╗   ██╗███████╗ █████╗ ██╗      ██████╗
+██╔════╝ ██╔═══██╗████╗  ██║╚══███╔╝██╔══██╗██║     ██╔═══██╗
+██║  ███╗██║   ██║██╔██╗ ██║  ███╔╝ ███████║██║     ██║   ██║
+██║   ██║██║   ██║██║╚██╗██║ ███╔╝  ██╔══██║██║     ██║   ██║
+╚██████╔╝╚██████╔╝██║ ╚████║███████╗██║  ██║███████╗╚██████╔╝
+ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝
+```
+
+### Ingeniería en Sistemas · UTN FRRe · Resistencia, Chaco
+### Data Engineering & Backend · ETL · Cloud · Arquitecturas que escalan
+
 </div>
 
-<!--
-**GonzaloAcost4/GonzaloAcost4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## `whoami`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+$ cat about.json
+{
+  "nombre":    "Gonzalo Exequiel Acosta",
+  "carrera":   "Ingeniería en Sistemas de Información — UTN FRRe",
+  "ubicacion": "Resistencia, Chaco, Argentina",
+  "enfoque":   ["Data Engineering", "Backend", "Infraestructura Cloud"],
+  "modo":      "build → measure → optimize → repeat"
+}
+```
+
+No escribo código de adorno. Me interesa diseñar arquitecturas que funcionen bajo presión, pipelines que no rompan en producción y sistemas que alguien pueda mantener en seis meses sin llorar.
+
+Actualmente profundizando en **procesos ETL**, **modelado dimensional** y **despliegue en AWS**.
+
+---
+
+## Stack
+
+**Backend & Datos**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Infraestructura & Herramientas**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
+
+**Frontend (cuando toca)**
+
+![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+---
+
+## Qué estoy construyendo
+
+```
+📦 pipelines/
+├── extracción y staging de datos desde fuentes heterogéneas
+├── modelado dimensional (Data Warehouse — caso SUBE)
+└── automatización de procesos con Python + SQL
+
+🌐 web/
+├── Full Stack con React, Next.js y Node.js
+└── integración con bases de datos relacionales y cloud
+
+🔧 infra/
+├── contenedores Docker y entornos reproducibles
+├── troubleshooting de sistemas operativos y hardware
+└── tuning de consultas SQL para rendimiento real
+```
+
+---
+
+## Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GonzaloAcost4&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloAcost4&layout=compact&langs_count=7&theme=dark&hide_border=true&bg_color=0d1117"/>
+</div>
+
+---
+
+## Fuera del compilador
+
+- 🏋️ Entrenamiento de fuerza.
+- 🎮 Juegos de estrategia
+- 🐱 Hanni (gata, senior engineer de apoyo emocional).
+
+---
+
+<div align="center">
+
+`¿Querés colaborar o charlar sobre data engineering?`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
+
+</div>
